@@ -43,8 +43,8 @@
 </div>
 
 ###
-![snake gif](https://github.com/OtavioRdR/OtavioRdR/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/otavio-rosa-rodrigues/otavio-rosa-rodrigues/blob/output/github-contribution-grid-snake-dark.svg)
 
-![snake gif](https://github.com/OtavioRdR/OtavioRdR/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/otavio-rosa-rodrigues/otavio-rosa-rodrigues/blob/output/github-contribution-grid-snake.svg)
 ###
 
