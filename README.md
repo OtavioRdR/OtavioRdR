@@ -43,7 +43,9 @@
 </div>
 
 ###
-https://github.com/OtavioRdR/OtavioRdR/blob/output/github-contribution-grid-snake.gif
+![snake gif](https://github.com/OtavioRdR/OtavioRdR/blob/output/github-contribution-grid-snake.gif)
+
+
 
 ###
 
