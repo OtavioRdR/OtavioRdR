@@ -45,7 +45,7 @@
 ###
 
 
-![snake gif](https://github.com/OtavioRdR/.github/workflows/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/OtavioRdR/OtavioRdR/blob/main/.github/workflows/github-contribution-grid-snake-dark.svg)
 
 
 ###
